@@ -29,7 +29,7 @@ Creating A Quote
 
    .. note::
 
-      **DO NOT SUBMIT FOR APPROVAL
+      **DO NOT SUBMIT FOR APPROVAL**
 
 #. Move your quote status to VOID
 
