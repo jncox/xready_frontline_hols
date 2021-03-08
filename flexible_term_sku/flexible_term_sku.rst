@@ -15,15 +15,15 @@ Creating A Quote
 
 #. Click **Create Quote in Frontline**, and enter the following information:
 
-   **Quote Name** - Test - Exercise 1 - *Your Name*
-   **Quote Type** - Software only
+   - **Quote Name** - Test - Exercise 1 - *Your Name*
+   - **Quote Type** - Software only
 
 #. Add the following Products:
 
-   **SW-AOS** - Checked
-   **Pro** - Checked
-   **Term** - 34 months
-   **Discount** - *Choose Percentage*
+   - **SW-AOS** - Checked
+   - **Pro** - Checked
+   - **Term** - 34 months
+   - **Discount** - *Choose Percentage*
 
 #. Click **Submit Your Quote**
 

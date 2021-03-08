@@ -13,14 +13,14 @@ Creating A Quote
 
 #. Click **Create Quote in Frontline**, and enter the following information:
 
-   **Quote Name** - Test - Exercise 3 - *Your Name*
-   **Quote Type** - Software only
+   - **Quote Name** - Test - Exercise 3 - *Your Name*
+   - **Quote Type** - Software only
 
 #. Add the following Products:
 
-   **Prism Ultimate** - 50 cores
-   **Term** - 29 months
-   **Discount** - 50%
+   - **Prism Ultimate** - 50 cores
+   - **Term** - 29 months
+   - **Discount** - 50%
 
 #. Click **Submit Your Quote**
 
